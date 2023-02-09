@@ -14433,7 +14433,7 @@ Vi(a,b,c){return new A.re(c,b,a,null)},
 afD(a,b,c){return new A.yV(c,b,a,null)},
 BN(a,b,c){return new A.BM(a,c,b,null)},
 a4x(a,b,c,d,e,f,g,h){return new A.mg(e,g,f,a,h,c,b,d)},
-a8n(a,b){return new A.B7(B.bn,B.pB,b,B.k3,null,B.iU,null,a,null)},
+a8n(a,b){return new A.B7(B.bn,B.A7,b,B.k3,null,B.iU,null,a,null)},
 a6P(a,b){return new A.wz(B.j6,b,B.eu,B.k3,null,B.iU,null,a,null)},
 a8l(a,b,c,d,e,f,g,h,i,j,k,l,m){return new A.B1(h,i,j,!0,c,l,b,a,g,m,k,e,d,A.agZ(h),null)},
 agZ(a){var s,r={}
@@ -51405,7 +51405,7 @@ s=k/2
 r=A.a7o("assets/IMG1.JPG",m,s)
 q=A.a3M(20)
 p=t.W
-return new A.qX(A.BN(B.cb,A.a([A.a6P(A.a([new A.p5(new A.lh("assets/QN.gif",o,o),k,o),A.a8n(A.a([new A.i4(B.tA,o,o,r,o),new A.i4(B.tz,o,o,A.Lj(o,A.a7o("assets/IMG3.JPG",m,s),o,new A.fa(o,o,o,q,o,o,B.aS),o,o,o,o),o)],p),B.eu)],p),B.pB),A.Lj(o,o,o,new A.fa(A.bJ(153,0,0,0),o,o,o,o,o,B.aS),o,o,o,o),new A.i4(B.am,o,o,A.Lj(o,A.a6P(A.a([A.C2("The Wedding",A.yo(B.h,20),o,o),A.C2("Quang & Ngoc",A.yo(B.h,35),o,o),A.C2(n,A.yo(B.h,15),o,o),A.C2("05/03/2023",A.yo(B.h,15),o,o),A.C2(n,A.yo(B.h,15),o,o)],p),B.A7),o,o,l,o,o,o),o)],p),B.dc),B.l,o)}}
+return new A.qX(A.BN(B.cb,A.a([A.a6P(A.a([new A.p5(new A.lh("assets/QN.gif",o,o),k,o),A.a8n(A.a([new A.i4(B.tA,o,o,r,o),new A.i4(B.tz,o,o,A.Lj(o,A.a7o("assets/IMG3.JPG",m,s),o,new A.fa(o,o,o,q,o,o,B.aS),o,o,o,o),o)],p),B.eu)],p),B.pB),A.Lj(o,o,o,new A.fa(A.bJ(153,0,0,0),o,o,o,o,o,B.aS),o,o,o,o),new A.i4(B.am,o,o,A.Lj(o,A.a6P(A.a([A.C2("The Wedding",A.yo(B.h,20),o,o),A.C2("Nhat Quang & Kieu Ngoc",A.yo(B.h,35),o,o),A.C2(n,A.yo(B.h,15),o,o),A.C2("05/03/2023",A.yo(B.h,15),o,o),A.C2(n,A.yo(B.h,15),o,o)],p),B.pB),o,o,l,o,o,o),o)],p),B.dc),B.l,o)}}
 A.hO.prototype={
 gm(a){return this.b},
 i(a,b){if(b>=this.b)throw A.c(A.Qc(b,this))
@@ -53941,8 +53941,8 @@ B.bR=new A.d(8589934852)
 B.cN=new A.d(8589934853)
 B.bS=new A.d(8589934854)
 B.cO=new A.d(8589934855)
-B.pB=new A.z0(0,"start")
-B.A7=new A.z0(2,"center")
+B.A7=new A.z0(0,"start")
+B.pB=new A.z0(2,"center")
 B.A8=new A.z1(0,"min")
 B.eu=new A.z1(1,"max")
 B.wT=A.a(s(["BU","DD","FX","TP","YD","ZR"]),t.s)
