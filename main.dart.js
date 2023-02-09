@@ -51405,7 +51405,7 @@ s=k/2
 r=A.a7o("assets/IMG1.JPG",m,s)
 q=A.a3M(20)
 p=t.W
-return new A.qX(A.BN(B.cb,A.a([A.a6P(A.a([new A.p5(new A.lh("assets/QN.gif",o,o),k,o),A.a8n(A.a([new A.i4(B.tA,o,o,r,o),new A.i4(B.tz,o,o,A.Lj(o,A.a7o("assets/IMG3.JPG",m,s),o,new A.fa(o,o,o,q,o,o,B.aS),o,o,o,o),o)],p),B.eu)],p),B.pB),A.Lj(o,o,o,new A.fa(A.bJ(153,0,0,0),o,o,o,o,o,B.aS),o,o,o,o),new A.i4(B.am,o,o,A.Lj(o,A.a6P(A.a([A.C2("The Wedding",A.yo(B.h,20),o,o),A.C2("Nhat Quang & Kieu Ngoc",A.yo(B.h,35),o,o),A.C2(n,A.yo(B.h,15),o,o),A.C2("05/03/2023",A.yo(B.h,15),o,o),A.C2(n,A.yo(B.h,15),o,o)],p),B.pB),o,o,l,o,o,o),o)],p),B.dc),B.l,o)}}
+return new A.qX(A.BN(B.cb,A.a([A.a6P(A.a([new A.p5(new A.lh("assets/QN.gif",o,o),k,o),A.a8n(A.a([new A.i4(B.tA,o,o,r,o),new A.i4(B.tz,o,o,A.Lj(o,A.a7o("assets/IMG3.JPG",m,s),o,new A.fa(o,o,o,q,o,o,B.aS),o,o,o,o),o)],p),B.eu)],p),B.pB),A.Lj(o,o,o,new A.fa(A.bJ(153,0,0,0),o,o,o,o,o,B.aS),o,o,o,o),new A.i4(B.am,o,o,A.Lj(o,A.a6P(A.a([A.C2("The Wedding",A.yo(B.h,20),o,o),A.C2("Quang & Ngoc",A.yo(B.h,40),o,o),A.C2(n,A.yo(B.h,15),o,o),A.C2("05/03/2023",A.yo(B.h,15),o,o),A.C2(n,A.yo(B.h,15),o,o)],p),B.pB),o,o,l,o,o,o),o)],p),B.dc),B.l,o)}}
 A.hO.prototype={
 gm(a){return this.b},
 i(a,b){if(b>=this.b)throw A.c(A.Qc(b,this))
