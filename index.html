@@ -27,18 +27,22 @@
 
   <!-- Favicon -->
   <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="stylesheet" href="loader.css">
 
   <title>qn</title>
   <link rel="manifest" href="manifest.json">
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    var serviceWorkerVersion = '1868790941';
+    var serviceWorkerVersion = '247996548';
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
 </head>
 <body>
+  <div id="loader">
+    <div class="loader-indicator"></div>
+  </div>
   <script>
     window.addEventListener('load', function(ev) {
       // Download main.dart.js
@@ -53,6 +57,10 @@
         }
       });
     });
+
   </script>
+
+  <script src="main.dart.js" type="application/javascript"
+  onendload="document.getElementById('loader').remove();"></script>
 </body>
 </html>
